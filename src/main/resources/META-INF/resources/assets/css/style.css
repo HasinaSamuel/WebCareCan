@@ -1,0 +1,10 @@
+.date-week, .point{
+    color: #ff7900;
+}
+.body{
+    padding: 15px;
+}
+.serchForm, .info{
+display: flex;
+margin: auto
+}
